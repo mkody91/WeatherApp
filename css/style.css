@@ -1,0 +1,54 @@
+#icon{
+	top: 45%;
+	height: 150pxpx;
+	width: 150px;
+}
+
+#main{
+	text-align: center;
+	font-size: 3em;
+}
+
+#city{
+	position: absolute;
+	font-size: 50px;
+	left: 2%;
+}
+
+#name{
+	vertical-align: middle;
+	text-align: center;
+	top: 45%;
+	font-size: 30px;
+	padding-bottom: 50px;
+}
+
+.center {
+	position: absolute;
+    margin: auto;
+	top: 50%;
+	left: 50%;
+}
+
+.right-center {
+	text-align: center;
+	border-radius: 10px;
+    position: absolute;
+	top: 50%;
+    right: 2%;
+    width: 50px;
+	height: 50px;
+    padding: 10px;
+}
+
+.left-center {
+	text-align: center;
+	border-radius: 10px;
+    position: absolute;
+	top:50%;
+    left: 2%;
+    width: 50px;
+	height: 50px;
+    padding: 10px;
+}
+
